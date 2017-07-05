@@ -1,0 +1,6 @@
+framework module DTParallaxScrollViewController {
+  umbrella header "DTParallaxScrollViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

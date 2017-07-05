@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Models/Models.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BDFClientApi/BDFClientApi.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Buddify/DTPhotoViewerController/DTPhotoViewerController.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Buddify.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
